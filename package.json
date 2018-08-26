@@ -1,0 +1,10 @@
+{
+  "name": "mount-route-modules",
+  "version": "1.0.0",
+  "description": "Mount expressjs route modules from resource tree",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacSennerholt/mount-route-modules.git"
+  }
+}
